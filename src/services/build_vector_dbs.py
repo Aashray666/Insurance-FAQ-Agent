@@ -35,9 +35,9 @@ def main():
     
     # Define policy documents mapping
     policy_documents = {
-        "private_car": "Reliance_Private_Car_Package_Policy_wording.pdf",
-        "commercial_vehicle": "Reliance_Commercial_Vehicles_Package_Policy_wording.pdf", 
-        "two_wheeler": "Reliance_Two_wheeler_Package_Policy_wording.pdf"
+        "private_car": "data/documents/Reliance_Private_Car_Package_Policy_wording.pdf",
+        "commercial_vehicle": "data/documents/Reliance_Commercial_Vehicles_Package_Policy_wording.pdf", 
+        "two_wheeler": "data/documents/Reliance_Two_wheeler_Package_Policy_wording.pdf"
     }
     
     # Initialize PDF processor

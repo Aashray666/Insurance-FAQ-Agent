@@ -24,10 +24,10 @@ This guide explains what each file does in simple terms for developers who want 
   - Technical explanation for developers
   - Code structure and file purposes
 
-### 📄 Insurance Documents
-- **`Reliance_Private_Car_Package_Policy_wording.pdf`**
-- **`Reliance_Commercial_Vehicles_Package_Policy_wording.pdf`** 
-- **`Reliance_Two_wheeler_Package_Policy_wording.pdf`**
+### 📄 Insurance Documents (in `data/documents/`)
+- **`data/documents/Reliance_Private_Car_Package_Policy_wording.pdf`**
+- **`data/documents/Reliance_Commercial_Vehicles_Package_Policy_wording.pdf`** 
+- **`data/documents/Reliance_Two_wheeler_Package_Policy_wording.pdf`**
   - Original insurance policy documents
   - Used by RAG system to answer policy questions
   - Processed into vector databases for search
@@ -201,7 +201,7 @@ This guide explains what each file does in simple terms for developers who want 
 3. Restart app
 
 ### **Adding New Insurance Documents**
-1. Place PDF in root directory
+1. Place PDF in `data/documents/` directory
 2. Update `src/services/build_vector_dbs.py`
 3. Run: `python src/services/build_vector_dbs.py`
 4. Restart app
