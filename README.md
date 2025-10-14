@@ -72,28 +72,28 @@ The API key is already hardcoded in the application for simplicity. If you want 
 
 **Option B: Use Your Own Key**
 - Open `src/services/response_formatter.py`
-- Find line: `self.api_key = "AIzaSyCbCM4jwE8BrDuTAfOlIOUoXjMw2CCzYP0"`
+- Find line: `self.api_key = ""`
 - Replace with your API key: `self.api_key = "your-api-key-here"`
 
 ## 📄 Setting Up Insurance Documents
 
 ### Current Setup (Ready to Use)
 The project comes with pre-loaded insurance documents:
-- ✅ **Private Car Policy** (`Reliance_Private_Car_Package_Policy_wording.pdf`)
-- ✅ **Commercial Vehicle Policy** (`Reliance_Commercial_Vehicles_Package_Policy_wording.pdf`)
-- ✅ **Two-wheeler Policy** (`Reliance_Two_wheeler_Package_Policy_wording.pdf`)
+- ✅ **Private Car Policy** (`data/documents/Reliance_Private_Car_Package_Policy_wording.pdf`)
+- ✅ **Commercial Vehicle Policy** (`data/documents/Reliance_Commercial_Vehicles_Package_Policy_wording.pdf`)
+- ✅ **Two-wheeler Policy** (`data/documents/Reliance_Two_wheeler_Package_Policy_wording.pdf`)
 
 ### Adding New Insurance Documents
 
 If you want to add your own insurance PDFs:
 
-1. **Place PDF files** in the root directory
+1. **Place PDF files** in the `data/documents/` directory
 2. **Update the document paths** in `src/services/build_vector_dbs.py`:
    ```python
    POLICY_DOCUMENTS = {
-       "Private Car": "your_car_policy.pdf",
-       "Commercial Vehicle": "your_commercial_policy.pdf", 
-       "Two-wheeler": "your_twowheeler_policy.pdf"
+       "Private Car": "data/documents/your_car_policy.pdf",
+       "Commercial Vehicle": "data/documents/your_commercial_policy.pdf", 
+       "Two-wheeler": "data/documents/your_twowheeler_policy.pdf"
    }
    ```
 3. **Rebuild vector databases**:
