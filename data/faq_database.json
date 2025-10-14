@@ -1,0 +1,374 @@
+{
+  "private_car": [
+    {
+      "question": "Why do I need insurance for my vehicle?",
+      "answer": "Under IPC, it is mandatory to have at least a third-party liability insurance cover. Also, in case of an unprecedented event such as an accident, your car might get damaged or stolen. To stay guarded against these losses and expenses, one should buy car insurance.",
+      "keywords": ["insurance", "vehicle", "need", "car", "protection"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What is the difference between third-party and comprehensive cover?",
+      "answer": "There are three types of car insurance policies — a third-party plan, which covers the loss and expenses that occurred to a third party; own damage cover, which covers the cost of damage or loss to own cover; and a comprehensive plan, which covers both third-party losses and own damage costs.",
+      "keywords": ["third-party", "comprehensive", "cover", "car insurance", "difference"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What are the different types of vehicles that can be insured online?",
+      "answer": "Private Car Insurance can be bought online for two-wheelers and four-wheelers. You can check your car insurance quote with the help of your registration number. Apart from this, commercial vehicle insurance can also be bought online.",
+      "keywords": ["types", "vehicles", "insured", "online", "car insurance"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What documents are required to buy or renew car insurance?",
+      "answer": "To buy car insurance online you will require the following documents: Car registration number, Car make year and model details, Personal details such as your address, age, photo and identity proof, Preferred insurance type and plan, Preferred add-ons, and Insured Declared Value (in case of a comprehensive car insurance plan).",
+      "keywords": ["documents", "buy", "renew", "car insurance", "requirements"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What are the benefits when you buy car insurance online?",
+      "answer": "Ease of buying: One of the biggest advantages of buying car insurance online is that it is convenient and simplifies your purchase decision. You can do it anywhere according to your comfort. Compare different four-wheeler insurance policies available in the market, find competitive policy rates, and buy instantly. Online car insurance also offers other benefits like renewal reminders, secure payment gateways, and tracking. You can calculate your premium online and pay using net banking, debit/credit cards, UPI, or Paytm.",
+      "keywords": ["benefits", "car insurance", "online", "advantages", "buying"],
+      "category": "quick facts"
+    },
+    {
+      "question": "Can I renew my car insurance policy online?",
+      "answer": "Yes, you can renew your car insurance online in the comfort of your home. Visit the renewal page, enter your policy and registration details, confirm and update your contact information, select add-ons, review the final premium, and make payment securely. Once payment is successful, your renewal is complete.",
+      "keywords": ["renew", "car insurance", "policy", "online"],
+      "category": "quick facts"
+    },
+    {
+      "question": "My motor insurance policy expired; how can I renew in case of break-in of my policy?",
+      "answer": "If your car insurance policy has expired, you can renew it by making payment online through our website or app. You can inspect your car yourself, upload photos, and get your policy instantly. Post satisfactory inspection and surveyor recommendation, your policy will be issued. This applies only for Private Car & Two-Wheeler policies, not for Third Party Liability.",
+      "keywords": ["expired", "motor insurance", "renew", "break-in policy"],
+      "category": "quick facts"
+    },
+    {
+      "question": "Once the inspection request is logged online, how long does it take to get the car policy?",
+      "answer": "Once a request is logged in, the inspection process takes place within 24 hours. After a successful inspection and recommendation by the surveyor, you will have 48 hours to log in and convert your auto insurance policy. Failing to do so will require a fresh inspection request.",
+      "keywords": ["inspection", "request", "online", "time", "car policy"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What is a No Claim Bonus (NCB)?",
+      "answer": "No Claim Bonus (NCB) is the discount in your car insurance premium enjoyed for not having made a claim in the previous year(s). It starts from 20% and increases yearly up to 50%. Reliance General Insurance also offers NCB retention add-on, which lets you retain your NCB at a small additional premium.",
+      "keywords": ["No Claim Bonus", "NCB", "car insurance", "discount"],
+      "category": "quick facts"
+    },
+    {
+      "question": "Is my NCB transferable?",
+      "answer": "Yes. If you have accumulated NCB, you can transfer it within 90 days of renewal. Even if you switch insurers, you can retain your NCB by providing the No-Claim Bonus certificate from your previous insurer.",
+      "keywords": ["NCB", "transferable", "transfer", "car insurance"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What is the rate at which NCB is transferred?",
+      "answer": "The NCB will be transferred at the same rate you are entitled to receive from your previous insurer. Ensure you provide your No-Claim Bonus certificate to complete the transfer.",
+      "keywords": ["NCB", "transfer rate", "car insurance"],
+      "category": "quick facts"
+    },
+    {
+      "question": "In case of my job and place change, what happens to my motor policy?",
+      "answer": "Your policy remains valid even if you move to another city. You only need to update your new address and phone number, either online or at a nearby branch. However, your premium might change based on your new registration zone — Zone A (metros) has a higher rate than Zone B (non-metros).",
+      "keywords": ["job change", "address change", "motor policy", "relocation"],
+      "category": "quick facts"
+    },
+    {
+      "question": "How do I get a copy of my car insurance policy online? Will the printout of the softcopy serve as the original document?",
+      "answer": "Just log on to www.reliancegeneral.co.in or your Selfi App and click on your profile. A soft copy of your four-wheeler policy document will be available for download. A print out of this document definitely serves as the original policy document.",
+      "keywords": ["copy", "car insurance", "policy", "online", "printout", "softcopy", "original document"],
+      "category": "policy"
+    },
+    {
+      "question": "What is an endorsement? What is premium and non-premium bearing endorsement?",
+      "answer": "An endorsement is a written proof of an agreed change in the auto insurance policy, as and when the need arises. There can be two types of endorsements: premium bearing and non-premium bearing. In a premium-bearing endorsement, you will be charged an additional premium for things like transfer of ownership, addition of LPG / CNG kit, change of RTO location, etc. In a non-premium bearing endorsement, you won't be charged anything for the changes incorporated in the policy. For example, correction in contact details, correction in name, correction in engine / chassis number, addition of hypothecation, etc.",
+      "keywords": ["endorsement", "premium", "non-premium", "policy change", "auto insurance"],
+      "category": "policy"
+    },
+    {
+      "question": "What changes can I make in my car insurance policy? How do I send that for endorsement?",
+      "answer": "You can make changes to your car policy only in the following cases: Either the name, registration number, engine number, chassis number or model number of your four wheeler vehicle has to be corrected. There is a change or correction in your address. There is a change in car, RTO or registration number of your vehicle. There is an addition of LPG / CNG kit, electrical / non-electrical accessories, anti-theft device, addition or change of hypothecation in your car. There is a NCB recovery or change. For an endorsement, you simply need to raise a service request online, by logging onto our website: www.reliancegeneral.co.in.",
+      "keywords": ["changes", "car insurance", "policy", "endorsement", "update details"],
+      "category": "policy"
+    },
+    {
+      "question": "What happens to the 4 wheeler insurance policy, if I sell my car?",
+      "answer": "Then you can do one of the following two things. You can transfer your existing automobile insurance policy to the new owner of the car. You can cancel this policy and tell the new owner to buy a new policy for the car. However, the policy can only be cancelled once we receive a copy of the new policy. This is because it is mandatory for any car to be insured, at least against third-party liability. Also keep in mind that you can enjoy a No-Claims Bonus on the premium for your new vehicle, if you purchase it within 3 years from date of cancelling / transferring the old policy.",
+      "keywords": ["4 wheeler", "insurance policy", "sell car", "policy transfer", "policy cancellation"],
+      "category": "policy"
+    },
+    {
+      "question": "What is loading?",
+      "answer": "Loading is an additional cost that is added to the car insurance premium when a policy is renewed. This additional cost only comes into effect if the risk to the car policy owner is judged as 'higher than normal'.",
+      "keywords": ["loading", "additional cost", "premium", "renewal"],
+      "category": "policy"
+    },
+    {
+      "question": "What risks are covered under Reliance motor insurance policy?",
+      "answer": "The auto insurance policy covers damage or loss to the car due to: Accident, Fire, Lightning, Self-Ignition, Explosion, Theft, Riot & Strikes and / or Malicious Acts, Terrorism, Earthquake, Flood, Cyclone, Inundation, Transit by Rail, Road, Air and Elevator. Apart from this, your car insurance policy covers policyholder against any accident or mishap. It can also cover a third-party entity, if the option is availed. We recommend that you opt for a Third-Party Liability Cover because it is now compulsory to be taken as per the Motor Vehicles Act. It covers third-party property damage and provides liability for the third-party in case of injury or death.",
+      "keywords": ["risks", "covered", "Reliance", "motor insurance", "policy"],
+      "category": "cover"
+    },
+    {
+      "question": "What do you mean by Add-On Cover?",
+      "answer": "Add-on covers add extra protection and cover benefits to your car insurance policy. It helps you customise your policy based on your requirements. Some of the add-on covers we recommend and offer to you are: No-Claim Bonus Retention Cover, Nil Depreciation Cover, Personal Accident Bundle Cover, Motor Secure Plus Cover, Motor Secure Premium Cover.",
+      "keywords": ["Add-On Cover", "meaning", "definition", "benefits"],
+      "category": "cover"
+    },
+    {
+      "question": "What is NCB Retention Cover?",
+      "answer": "This add-on cover helps you to retain your earned No-Claim Bonus (NCB) percentage, even after you've made a claim. Without this additional cover, your NCB would drop to 0% if you've made a claim in the previous car policy period. There are a few conditions though! The coverage is available only for private cars. The age of the car should be 2 years and above. The NCB percentage of the vehicle should be 25% and above. Also, the Renewal and Rollover Policies (New / Used Excluded) currently are available for cars with an IDV of up to Rs. 10 Lacs only.",
+      "keywords": ["NCB Retention Cover", "No-Claim Bonus", "retain", "insurance"],
+      "category": "cover"
+    },
+    {
+      "question": "What is Nil Depreciation?",
+      "answer": "This add-on cover entitles you to get 100% repayment on the depreciated parts (other than tyres and tubes) at the time of claim settlement. You can opt for a Nil Depreciation Cover when you get a new car insured or for two subsequent renewals. By paying a minimal, additional charge on your car insurance quote, you can benefit by availing repairing costs of fiber glass, rubber, tyres, batteries, air bags, nylon, and plastic parts. Note - We cover only private cars and two wheelers, with a maximum of two claims in one policy period. This cover is applicable only for select make and models.",
+      "keywords": ["Nil Depreciation", "cover", "repayment", "depreciated parts"],
+      "category": "cover"
+    },
+    {
+      "question": "What is the Total Cover add-on? How is it beneficial?",
+      "answer": "Total cover add-on is very beneficial in case your car gets completely damaged in an accident or if it is stolen. In such case, the total sum of the expenses paid for the vehicle insurance, registration charges and road tax is reimbursed proportionately.",
+      "keywords": ["Total Cover", "add-on", "benefits", "complete damage", "stolen"],
+      "category": "cover"
+    },
+    {
+      "question": "What is a Voluntary Deductible?",
+      "answer": "Voluntary deductible is an amount that you agree to pay towards a claim (in addition to the compulsory deductible) before the insurance company picks up the balance. It is a fixed and minimum amount that you declare to pay when you make a claim. This amount is inversely proportional to your premium. The higher your Voluntary Deductible amount, the lower is your automobile insurance premium. For example, if your claim amount is Rs. 20,000 and the voluntary deductible is Rs. 3,000 then you have to bear the first Rs. 3,000 and the claim will be worth Rs.17,000.",
+      "keywords": ["Voluntary Deductible", "claim", "premium", "amount", "discount"],
+      "category": "cover"
+    },
+    {
+      "question": "What risks are not covered under Reliance Motor Insurance Policy?",
+      "answer": "The risks that we don't cover in this car insurance policy are as follows: Normal wear-and-tear of the car, Mechanical and electrical breakdown, Cars being used outside of the limitations placed on the usage, Damage to / by person driving without a valid driving license, Loss or damage caused while driving under the influence of alcohol or any other intoxicating substance, Loss or damage due to depreciation of the car's value, Loss or damage due to war or nuclear risks, Consequential loss i.e. any indirect losses caused due to the car's damage / loss, Compulsory deductibles i.e. a fixed amount that the insurer will have to bear.",
+      "keywords": ["risks", "not covered", "Reliance", "motor insurance", "exclusions"],
+      "category": "cover"
+    },
+    {
+      "question": "What is Third-Party Liability Cover? Is it part of my policy?",
+      "answer": "The most important reason to get third-party policy is that it is compulsory by law and you might end up paying hefty fines if you don't have it. As the name says, it covers all third-party damage. There is always a chance of getting in an accident with a third party in certain circumstances, and with this a policy like this, you can prevent such scenarios since it covers all liabilities incurred to the third party.",
+      "keywords": ["Third-Party Liability", "cover", "compulsory", "law", "policy"],
+      "category": "cover"
+    },
+    {
+      "question": "What is Personal Accident Insurance cover?",
+      "answer": "This personal accident cover provides compensation in case of death or permanent disabilities due to an accident involving the insured vehicle. Coverages: CPA ( Compulsory Personal Accident –Owner Driver ) for 1 Yr Mandatory Cover Unbundled recently by IRDAI Policy Duration 1 Year One CPA policy covers the insured for all the vehicles owned by him/ her. To be eligible for Compulsory Personal Accident The insured has to be the owner of the vehicle Should have a Valid Driving License SA Limit is Min 15 lacs. (In case insured has other PA policies differential SA can be opted by insured) Customer can opt-out of this cover if he already has other PA cover covering (Death & Permanent Disability) up to the extent of minimum 15 lacs or is covered with other CPA policy under motor insurance in other vehicles owned by him.",
+      "keywords": ["Personal Accident", "insurance", "cover", "compensation", "death", "disability"],
+      "category": "cover"
+    },
+    {
+      "question": "In what scenarios can I make a Personal Accident claim?",
+      "answer": "You can claim the PA cover only if the car Insurance Policy is in your name and you are the registered owner of the car & have an owner-driver, paid-driver or unnamed passenger cover.",
+      "keywords": ["Personal Accident", "PA", "scenarios", "eligibility", "registered owner", "accident claim"],
+      "category": "cover"
+    },
+    {
+      "question": "Am I eligible for a discount if I am a member of Automobile Association of India?",
+      "answer": "Yes, we do offer car insurance discounts to members of certain associations. So, if you're a member of any of the following automobile associations, you are eligible for a discount: Automobile Association of Eastern India, The Western India Automobile Association, The Automobile Association of Southern India, The Automobile Association of Upper India, The Uttar Pradesh Automobile Association.",
+      "keywords": ["discount", "eligibility", "Automobile Association", "membership"],
+      "category": "cover"
+    },
+    {
+      "question": "What is IDV and how is it calculated?",
+      "answer": "IDV stands for Insured Declared Value. It is the maximum sum assured that an insurer will pay in case of total loss or theft of the vehicle. IDV is calculated based on the manufacturer's listed selling price, minus depreciation for each completed year of the vehicle's age. Less than 6 months – 5% depreciation, More than 6 months but less than or equal to 1 year – 15% depreciation, More than 1 year but less than or equal to 2 years – 20% depreciation, More than 2 years but less than or equal to 3 years – 30% depreciation, More than 3 years but less than or equal to 4 years – 40% depreciation, More than 4 years but less than or equal to 5 years – 50% depreciation.",
+      "keywords": ["IDV", "Insured Declared Value", "calculation", "depreciation", "vehicle"],
+      "category": "cover"
+    },
+    {
+      "question": "What are electrical and non-electrical accessories? How do you calculate their value?",
+      "answer": "Electrical accessories are any electronically powered accessories that are part of your car. This could include accessories such as music systems, LCD etc. which are not manufacturer fitted. You can protect electrical accessories, which are not factory fitted, by paying an extra premium of 4% on the value of the item. The value of the item is as stated by you i.e. the insured. Non-electrical accessories include anything from wheels to seat covers, which are not manufacturer fitted. Protection for these can be achieved by paying an extra premium on the invoice value of your car insurance quote.",
+      "keywords": ["electrical accessories", "non-electrical accessories", "value", "calculation", "premium"],
+      "category": "cover"
+    },
+    {
+      "question": "What is meaning of the phrase 'legal liability of the paid driver'?",
+      "answer": "A paid driver is obviously someone you have appointed to drive your car. If this driver meets with an accident while driving your car, you will need to compensate him / her or that person's family for the injury or loss of life. If you choose to include the option of 'legal liability for paid driver', then we, the insurance company, will pay this compensation amount. This cover is easily included with an additional premium of Rs. 50/- irrespective of any period of insurance, not exceeding 12 months.",
+      "keywords": ["legal liability", "paid driver", "accident", "compensation", "insurance"],
+      "category": "cover"
+    },
+    {
+      "question": "If I have LPG or CNG kit fitted in the car, but it's not endorsed in the RC book, will it be covered in the policy?",
+      "answer": "No, we will issue the insurance policy only if the LPG / CNG kit is incorporated on the Registration Certificate (RC) by the concerned RTO.",
+      "keywords": ["LPG", "CNG kit", "RC book", "endorsement", "coverage", "policy"],
+      "category": "cover"
+    },
+    {
+      "question": "If I purchase new accessories for my car, can I get them insured in the middle of the insurance policy term?",
+      "answer": "Yes, you can! However, you will have to make a written request to us and share the details of the accessories. Depending on the accessories, you may also need to pay an extra premium on your automobile insurance.",
+      "keywords": ["new accessories", "insurance", "mid-term", "extra premium", "request"],
+      "category": "cover"
+    },
+    {
+      "question": "Which factors affect / reduce the premium or insurance quote of my car?",
+      "answer": "Factors that affect / reduce car insurance quote are: Insured Declared Value or IDV (present market value of the car), Cubic Capacity (CC) of the car, Place of registration (Zone A / Zone B), Type of model, Age of the car, Type of cover - whether you want comprehensive or third-party vehicle insurance cover only, Add-on covers chosen by you, No-Claim Bonus retention (this gets you a discount on the premium).",
+      "keywords": ["factors", "premium", "insurance quote", "IDV", "car age", "model type", "cover type", "add-on covers"],
+      "category": "premium"
+    },
+    {
+      "question": "What is an ARAI-approved car-theft device?",
+      "answer": "ARAI stands for Automotive Research Association of India. If you have installed an ARAI-approved anti-theft device in your vehicle, whose installation is certified by the agency, you can get a discount of 2.5% on the OD (Own Damage) premium subject to maximum of Rs. 500.",
+      "keywords": ["ARAI", "car-theft device", "anti-theft", "discount", "installation", "certification"],
+      "category": "premium"
+    },
+    {
+      "question": "What are the different modes of payment accepted online? Are there different schemes?",
+      "answer": "Online Payments for your car insurance definitely make life easier. At Reliance General Insurance, you can pay your car insurance premium in following ways: Credit Card, Netbanking, Debit Card using ATM PIN, Debit Card using 3D secure. We accept all Visa, Mastercard, American Express cards and other international credit cards. You can also use other payment options like UPI and Paytm.",
+      "keywords": ["payment modes", "online payment", "credit card", "debit card", "netbanking", "UPI", "schemes"],
+      "category": "premium"
+    },
+    {
+      "question": "Am I eligible for a car insurance discount if I install anti-theft alarm and locking system?",
+      "answer": "Yes, you are! When you mention the anti-theft and locking system installed on your car, the car insurance quote decreases relatively. We award a discount on the Own Damage premium if your car is fitted with an ARAI-approved anti-theft alarm and locking system.",
+      "keywords": ["discount", "anti-theft", "alarm", "locking system", "ARAI-approved", "insurance premium"],
+      "category": "premium"
+    },
+    {
+      "question": "Does the car model affect the cost of Car insurance?",
+      "answer": "Yes, it does. The brand, make and model of the car dictates the car's price. Since the car insurance premium is directly linked to the sum insured, the car model has an impact on the insurance cost. To know the premium for your car insurance policy, simply fill in your details and the vehicle registration number. A car insurance quote will be generated to give you an estimate of the premium.",
+      "keywords": ["car model", "insurance cost", "premium", "brand", "make", "sum insured"],
+      "category": "premium"
+    },
+    {
+      "question": "How do I register my claim?",
+      "answer": "As soon as any damage or loss occurs to the vehicle, regardless of the hour, we recommend that you call our helpline numbers immediately. Paid Number- +91 22 48903009. You can also directly register your claim online. Click here to download the form.",
+      "keywords": ["how", "file", "claim", "register", "submit", "report", "damage", "helpline"],
+      "category": "claims"
+    },
+    {
+      "question": "What documents are required to file a claim?",
+      "answer": "Here is a list of document you should keep ready while making a claim. Accident Damages: Completed claim form, Proof of Automobile Insurance - Policy / Cover Note copy, Copy of Registration Book, Tax Receipt (Original required for verification), Copy of Motor Driving License (with original) of the person driving the vehicle at the material time, Police Panchanama / FIR (In case of third-party property damage/ death / body injury), Estimate for repairer, where the vehicle is to be repaired, Repair bills and payment receipts after the job is completed, Any other document as required by the insurer. Theft Cases: Original Certificate/Vehicle Policy Document, Original Registration Book, with Theft endorsement from concerned RTO, and tax payment receipt, Previous Insurance Details, Policy number, Insuring office / company, Period of insurance, All the sets of keys/service booklets/Warranty card, Police Panchanama / FIR and final investigation report/JMFC report, Acknowledged copy of letter address to RTO intimating theft and making vehicle 'NON-USE', Any other document as required by the insurer.",
+      "keywords": ["claim documents", "insurance papers", "FIR", "repair bills", "car insurance claim"],
+      "category": "claims"
+    },
+    {
+      "question": "When should I report to the police?",
+      "answer": "You should report to the police immediately by contacting or going to nearest police station in case there is damage to any third-party property, bodily injury to third party or self, or theft of the car. In the event of an accident or a mishap, be assured of complete assistance from us to get you back on the road. Keep your car insurance papers in your automobile at all times.",
+      "keywords": ["report accident", "police report", "third-party damage", "vehicle theft", "insurance claim"],
+      "category": "claims"
+    },
+    {
+      "question": "What to do if my car is stolen?",
+      "answer": "You should immediately report to the police before registering any claim as a delay in reporting will affect your claim, as an insurance company could deny liability.",
+      "keywords": ["car theft", "FIR", "stolen vehicle", "report police", "insurance claim"],
+      "category": "claims"
+    },
+    {
+      "question": "What is cashless and non-cashless / reimbursement claim?",
+      "answer": "Cashless Claim: A cashless claim is one, where physical cash does not have to exist during the settlement of the claim. We, the insurers, will pay the repair charges of the car directly to the garage. However, this is possible only if the garage is part of our listed network of garages. Non-Cashless / Reimbursement Claim: This type of payment or settlement occurs when you choose a garage that is not part of our network. In this case, you need to make the complete payment to the garage at the time of the repairs. Later, you can get this amount reimbursed by submitting the original bills and payment receipts to our office.",
+      "keywords": ["cashless claim", "reimbursement claim", "network garage", "insurance settlement", "repair payment"],
+      "category": "claims"
+    }
+  ],
+  "commercial_vehicle": [
+    {
+      "question": "What is commercial vehicle insurance?",
+      "answer": "Commercial vehicle insurance is a type of motor insurance that provides coverage for vehicles used for business purposes. This includes goods carriers, passenger vehicles, and other commercial vehicles used for earning income.",
+      "keywords": ["commercial vehicle", "insurance", "business", "coverage"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What types of commercial vehicles can be insured?",
+      "answer": "We provide insurance for various types of commercial vehicles including: Goods carrying vehicles (trucks, lorries, trailers), Passenger carrying vehicles (buses, taxis, auto-rickshaws), Three-wheelers used for commercial purposes, Construction vehicles and equipment, Agricultural vehicles used commercially.",
+      "keywords": ["commercial vehicles", "types", "trucks", "buses", "insurance"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What documents are required for commercial vehicle insurance?",
+      "answer": "Required documents include: Registration Certificate (RC), Commercial Driving License, Permit for commercial use, Previous insurance policy (for renewal), Fitness certificate, Route permit (if applicable), Tax payment receipts.",
+      "keywords": ["documents", "commercial vehicle", "insurance", "permit", "license"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What is covered under commercial vehicle insurance?",
+      "answer": "Commercial vehicle insurance covers: Own damage due to accidents, fire, theft, Third-party liability (mandatory), Goods in transit (optional), Driver and conductor personal accident, Legal liability to employees, Natural calamities coverage.",
+      "keywords": ["commercial vehicle", "coverage", "liability", "goods transit"],
+      "category": "cover"
+    },
+    {
+      "question": "What is the difference between goods carrying and passenger carrying commercial vehicle insurance?",
+      "answer": "Goods carrying vehicle insurance covers vehicles used for transporting goods and cargo, with coverage for goods in transit and loading/unloading risks. Passenger carrying vehicle insurance covers buses, taxis, and other vehicles used for transporting passengers, with higher liability coverage for passenger safety and legal liability to passengers.",
+      "keywords": ["goods carrying", "passenger carrying", "commercial vehicle", "insurance", "difference"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What is goods in transit coverage?",
+      "answer": "Goods in transit coverage is an optional add-on that protects the goods being transported in your commercial vehicle against damage, theft, or loss during transit. This coverage is particularly important for goods carriers and logistics companies.",
+      "keywords": ["goods in transit", "coverage", "commercial vehicle", "cargo protection"],
+      "category": "cover"
+    },
+    {
+      "question": "What is the legal liability to employees coverage?",
+      "answer": "Legal liability to employees coverage protects you against compensation claims from your employees (drivers, conductors, cleaners) in case of injury or death while on duty. This is mandatory for commercial vehicles with paid employees.",
+      "keywords": ["legal liability", "employees", "commercial vehicle", "compensation", "mandatory"],
+      "category": "cover"
+    },
+    {
+      "question": "How is commercial vehicle insurance premium calculated?",
+      "answer": "Commercial vehicle insurance premium is calculated based on factors like: Vehicle type and usage, Gross Vehicle Weight (GVW), Cubic capacity of the engine, Age of the vehicle, Geographical zone of registration, Type of coverage selected, Add-on covers chosen, Claims history and No Claim Bonus.",
+      "keywords": ["premium calculation", "commercial vehicle", "GVW", "factors", "insurance cost"],
+      "category": "premium"
+    }
+  ],
+  "two_wheeler": [
+    {
+      "question": "Why do I need two-wheeler insurance?",
+      "answer": "Two-wheeler insurance is mandatory under the Motor Vehicles Act. It protects you against financial losses due to accidents, theft, or damage to your bike or scooter. It also covers third-party liabilities and provides personal accident cover.",
+      "keywords": ["two-wheeler", "insurance", "mandatory", "protection", "bike"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What is covered under two-wheeler insurance?",
+      "answer": "Two-wheeler insurance covers: Damage due to accidents, Theft of the vehicle, Fire and explosion, Natural calamities (flood, earthquake, cyclone), Third-party liability (mandatory), Personal accident cover for the owner-driver, Damage during transit.",
+      "keywords": ["two-wheeler", "coverage", "accidents", "theft", "liability"],
+      "category": "cover"
+    },
+    {
+      "question": "What documents are required for two-wheeler insurance?",
+      "answer": "Required documents include: Registration Certificate (RC), Driving License, Previous insurance policy (for renewal), Address proof, Age proof, Photographs, PAN card (for high-value bikes).",
+      "keywords": ["documents", "two-wheeler", "insurance", "RC", "license"],
+      "category": "quick facts"
+    },
+    {
+      "question": "What is the difference between third-party and comprehensive two-wheeler insurance?",
+      "answer": "Third-party insurance: Covers only third-party liabilities, Mandatory by law, Lower premium, No own damage coverage. Comprehensive insurance: Covers both third-party and own damage, Higher premium but better protection, Includes theft, fire, natural calamities, Personal accident cover included.",
+      "keywords": ["third-party", "comprehensive", "two-wheeler", "insurance", "difference"],
+      "category": "quick facts"
+    },
+    {
+      "question": "How do I claim two-wheeler insurance?",
+      "answer": "To claim two-wheeler insurance: 1. Inform the insurance company immediately, 2. File FIR if required (theft, third-party damage), 3. Take photographs of damage, 4. Submit required documents, 5. Get vehicle inspected by surveyor, 6. Submit repair estimates, 7. Get repairs done at authorized garage, 8. Submit bills for reimbursement.",
+      "keywords": ["two-wheeler", "claim", "process", "insurance", "steps"],
+      "category": "claims"
+    },
+    {
+      "question": "What is the No Claim Bonus for two-wheelers?",
+      "answer": "No Claim Bonus (NCB) for two-wheelers starts at 20% for the first claim-free year and can go up to 50% for five consecutive claim-free years. The NCB is applicable only on the Own Damage premium, not on third-party premium.",
+      "keywords": ["No Claim Bonus", "NCB", "two-wheeler", "discount", "claim-free"],
+      "category": "quick facts"
+    },
+    {
+      "question": "Can I transfer my two-wheeler insurance to another person?",
+      "answer": "Yes, you can transfer your two-wheeler insurance policy when you sell your vehicle. The new owner needs to submit the required documents and pay any additional premium if applicable. The transfer must be done within a specified time period.",
+      "keywords": ["transfer", "two-wheeler", "insurance", "policy", "ownership change"],
+      "category": "policy"
+    },
+    {
+      "question": "What add-on covers are available for two-wheelers?",
+      "answer": "Available add-on covers for two-wheelers include: Zero Depreciation Cover, Personal Accident Cover for Pillion Rider, Roadside Assistance, Engine Protection Cover, Consumables Cover, Return to Invoice Cover.",
+      "keywords": ["add-on covers", "two-wheeler", "zero depreciation", "roadside assistance"],
+      "category": "cover"
+    },
+    {
+      "question": "What is Zero Depreciation Cover for two-wheelers?",
+      "answer": "Zero Depreciation Cover ensures that you get the full claim amount without any depreciation deduction on parts like plastic parts, fiber glass, rubber parts, and metal parts. This cover is available for new bikes and can be renewed for up to 2-3 years depending on the insurer.",
+      "keywords": ["Zero Depreciation", "two-wheeler", "full claim", "no depreciation"],
+      "category": "cover"
+    },
+    {
+      "question": "How is two-wheeler insurance premium calculated?",
+      "answer": "Two-wheeler insurance premium is calculated based on: Engine capacity (CC) of the bike, Age of the vehicle, Geographical zone, Type of coverage (third-party or comprehensive), Add-on covers selected, No Claim Bonus discount, IDV (Insured Declared Value).",
+      "keywords": ["premium calculation", "two-wheeler", "engine capacity", "IDV", "factors"],
+      "category": "premium"
+    }
+  ]
+}

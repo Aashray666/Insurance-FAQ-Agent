@@ -1,0 +1,61 @@
+[
+  {
+    "ticket_id": "ESC-20251015035756",
+    "timestamp": "2025-10-15T03:57:56.646824",
+    "customer_query": "I want to speak to a manager about my claim",
+    "policy_type": "Private Car",
+    "attempted_sources": [
+      "FAQ",
+      "Claims"
+    ],
+    "agent_response": "Your claim PC2024001 is under review",
+    "escalation_reason": "Customer requested manager",
+    "status": "PENDING",
+    "priority": "MEDIUM",
+    "customer_feedback": null
+  },
+  {
+    "ticket_id": "ESC-20251015035756",
+    "timestamp": "2025-10-15T03:57:56.656477",
+    "customer_query": "Deductible amounts and limits for comprehensive coverage",
+    "policy_type": "Private Car",
+    "attempted_sources": [
+      "FAQ",
+      "RAG"
+    ],
+    "agent_response": "No relevant information found",
+    "escalation_reason": "Complex query not found in available sources",
+    "status": "PENDING",
+    "priority": "MEDIUM",
+    "customer_feedback": null
+  },
+  {
+    "ticket_id": "ESC-20251015035756",
+    "timestamp": "2025-10-15T03:57:56.667283",
+    "customer_query": "I need legal advice about my insurance dispute",
+    "policy_type": "Commercial Vehicle",
+    "attempted_sources": [
+      "FAQ",
+      "RAG"
+    ],
+    "agent_response": "General policy information provided",
+    "escalation_reason": "Legal/regulatory query requiring human expertise",
+    "status": "PENDING",
+    "priority": "HIGH",
+    "customer_feedback": null
+  },
+  {
+    "ticket_id": "ESC-20251015035756",
+    "timestamp": "2025-10-15T03:57:56.678853",
+    "customer_query": "This chatbot is terrible and not helpful at all",
+    "policy_type": "Two-wheeler",
+    "attempted_sources": [
+      "FAQ"
+    ],
+    "agent_response": "FAQ response provided",
+    "escalation_reason": "Customer expressed dissatisfaction",
+    "status": "PENDING",
+    "priority": "MEDIUM",
+    "customer_feedback": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ticket_id": "ESC-20251015040037",
+    "timestamp": "2025-10-15T04:00:37.652163",
+    "customer_query": "What are the exclusions for natural disasters?",
+    "policy_type": "Private Car",
+    "attempted_sources": [
+      "FAQ",
+      "RAG"
+    ],
+    "agent_response": "No relevant information found",
+    "escalation_reason": "No relevant information found in available sources",
+    "status": "PENDING",
+    "priority": "MEDIUM",
+    "customer_feedback": null
+  },
+  {
+    "ticket_id": "ESC-20251015043312",
+    "timestamp": "2025-10-15T04:33:12.846595",
+    "customer_query": "How do I file a claim?",
+    "policy_type": "Commercial Vehicle",
+    "attempted_sources": [
+      "FAQ",
+      "RAG"
+    ],
+    "agent_response": "No relevant information found",
+    "escalation_reason": "No relevant information found in available sources",
+    "status": "PENDING",
+    "priority": "MEDIUM",
+    "customer_feedback": null
+  }
+]
